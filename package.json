@@ -35,7 +35,7 @@
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "cross-spawn": "^7.0.3",
-    "element-plus": "^2.3.1",
+    "element-plus": "^2.3.5",
     "ffmpeg-static": "^5.1.0",
     "node-rtsp-stream": "^0.0.9",
     "pinia": "^2.0.32",
